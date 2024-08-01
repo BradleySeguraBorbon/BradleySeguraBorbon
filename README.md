@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!, I'm Bradley😄
+### I'm currently a Software Engineering Student in his second year of career💻
+### I love learning new technologies💡, and developing innovative apps🌟
+### bradleysegura001@gmail.com
 
 <!--
 **BradleySeguraBorbon/BradleySeguraBorbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
