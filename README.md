@@ -1,6 +1,6 @@
 ### Hi!, I'm Bradley😄
 ### I'm currently a Software Engineering Student in his second year of career💻
-### I love learning new technologies💡, and developing innovative apps🌟
+### I love learning new technologies💡 and developing innovative apps🌟
 ### bradleysegura001@gmail.com
 
 <!--
