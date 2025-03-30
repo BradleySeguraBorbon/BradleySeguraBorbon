@@ -1,5 +1,5 @@
 ### Hi!, I'm Bradley😄
-### I'm currently a Systems Engineering Student in his second year of career💻
+### I'm currently a Systems Engineering Student in his third year of career💻
 ### I love learning new technologies💡 and developing innovative apps🌟
 
 <!--
