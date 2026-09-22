@@ -1,4 +1,4 @@
-### Fourth year Systems Engineering student 💻
+### Fourth-year Systems Engineering student 💻
 
 <!--
 **BradleySeguraBorbon/BradleySeguraBorbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
